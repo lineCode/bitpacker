@@ -22,6 +22,9 @@ A library to do type-safe and low-boilerplate bit level serialization
 * Boost License
 * works as a CMake sub-project
 
+Develop in browser with gitpod!
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/CrustyAuklet/bitpacker)
+
 ## Goals
 -  Express bit-level serialization formats in a 100% cross platform way
 -  Produce code of a similar size/overhead as the shift and mask method
